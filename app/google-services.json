@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "931176629185",
+    "firebase_url": "https://app-chat-12439.firebaseio.com",
+    "project_id": "app-chat-12439",
+    "storage_bucket": "app-chat-12439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931176629185:android:a44135110399d4fd",
+        "android_client_info": {
+          "package_name": "com.example.toshiba.appchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931176629185-9huqnqmbht6k3ir9cb4391u7mrougd1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toshiba.appchat",
+            "certificate_hash": "2fdc37138d7d82df289780cf325a653dc6b3e6df"
+          }
+        },
+        {
+          "client_id": "931176629185-j1cs53apch0mu0v32fh9arob8d4cgm7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSSWTQS6fn3bntXRkeH5au3ByLcyuKAEw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931176629185-j1cs53apch0mu0v32fh9arob8d4cgm7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
